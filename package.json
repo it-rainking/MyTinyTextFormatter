@@ -2,7 +2,7 @@
   "name": "product-formatter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tuousername.github.io/nome-repository",
+  "homepage": "https://it-rainking.github.io/MyTinyTextFormatter/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
